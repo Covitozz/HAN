@@ -15,7 +15,6 @@ var explore_pluginrco2_usb='/coldboot.raf';
 var explore_pluginrco2_blind='/dev_blind/vsh/resource/coldboot.raf';
 var explore_pluginrco2_fsize=0xCB70;
 
-/*
 var explore_pluginrco_usb='/explore_plugin_full.rco';
 var explore_pluginrco_blind='/dev_blind/vsh/resource/explore_plugin_full.rco';
 var explore_pluginrco_fsize=0x227ED0;
@@ -23,7 +22,7 @@ var explore_pluginrco_fsize=0x227ED0;
 var explore_pluginrco2_usb='/explore_category_game.rco';
 var explore_pluginrco2_blind='/dev_blind/vsh/resource/explore_category_game.rco';
 var explore_pluginrco2_fsize=0x3A6F4;
-*/
+
 var category_game_usb='/category_game.xml';
 var category_game_blind='/dev_blind/vsh/resource/explore/xmb/category_game.xml';
 var category_game_fsize=0x16018;
